@@ -1,0 +1,25 @@
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\Debug\rgbd_copmression.exe.config
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\Debug\rgbd_copmression.exe
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\Debug\rgbd_copmression.pdb
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\obj\Debug\rgbd_copmression.csprojResolveAssemblyReference.cache
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\obj\Debug\rgbd_copmression.Form1.resources
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\obj\Debug\rgbd_copmression.Properties.Resources.resources
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\obj\Debug\rgbd_copmression.csproj.GenerateResource.Cache
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\obj\Debug\rgbd_copmression.csproj.CoreCompileInputs.cache
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\obj\Debug\rgbd_copmression.exe
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\obj\Debug\rgbd_copmression.pdb
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\Debug\Emgu.CV.dll
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\Debug\AForge.Video.FFMPEG.pdb
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\welah\Desktop\Group 08_Compression of RGBD Data\Group 08_Compression of RGBD Data\Source Code\rgbd_copmression\rgbd_copmression\bin\Debug\rgbd_copmression.exe.config
+C:\Users\welah\Desktop\Group 08_Compression of RGBD Data\Group 08_Compression of RGBD Data\Source Code\rgbd_copmression\rgbd_copmression\bin\Debug\rgbd_copmression.exe
+C:\Users\welah\Desktop\Group 08_Compression of RGBD Data\Group 08_Compression of RGBD Data\Source Code\rgbd_copmression\rgbd_copmression\bin\Debug\rgbd_copmression.pdb
+C:\Users\welah\Desktop\Group 08_Compression of RGBD Data\Group 08_Compression of RGBD Data\Source Code\rgbd_copmression\rgbd_copmression\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\welah\Desktop\Group 08_Compression of RGBD Data\Group 08_Compression of RGBD Data\Source Code\rgbd_copmression\rgbd_copmression\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\welah\Desktop\Group 08_Compression of RGBD Data\Group 08_Compression of RGBD Data\Source Code\rgbd_copmression\rgbd_copmression\obj\Debug\rgbd_copmression.csprojResolveAssemblyReference.cache
+C:\Users\welah\Desktop\Group 08_Compression of RGBD Data\Group 08_Compression of RGBD Data\Source Code\rgbd_copmression\rgbd_copmression\obj\Debug\rgbd_copmression.Form1.resources
+C:\Users\welah\Desktop\Group 08_Compression of RGBD Data\Group 08_Compression of RGBD Data\Source Code\rgbd_copmression\rgbd_copmression\obj\Debug\rgbd_copmression.Properties.Resources.resources
+C:\Users\welah\Desktop\Group 08_Compression of RGBD Data\Group 08_Compression of RGBD Data\Source Code\rgbd_copmression\rgbd_copmression\obj\Debug\rgbd_copmression.csproj.GenerateResource.Cache
+C:\Users\welah\Desktop\Group 08_Compression of RGBD Data\Group 08_Compression of RGBD Data\Source Code\rgbd_copmression\rgbd_copmression\obj\Debug\rgbd_copmression.csproj.CoreCompileInputs.cache
+C:\Users\welah\Desktop\Group 08_Compression of RGBD Data\Group 08_Compression of RGBD Data\Source Code\rgbd_copmression\rgbd_copmression\obj\Debug\rgbd_copmression.exe
+C:\Users\welah\Desktop\Group 08_Compression of RGBD Data\Group 08_Compression of RGBD Data\Source Code\rgbd_copmression\rgbd_copmression\obj\Debug\rgbd_copmression.pdb

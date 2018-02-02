@@ -1,0 +1,17 @@
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\x86\Debug\rgbd_copmression.exe.config
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\x86\Debug\rgbd_copmression.exe
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\x86\Debug\rgbd_copmression.pdb
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\x86\Debug\AForge.Video.dll
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\x86\Debug\AForge.Video.FFMPEG.dll
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\x86\Debug\Emgu.CV.UI.dll
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\x86\Debug\Emgu.CV.World.dll
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\x86\Debug\Emgu.Util.dll
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\x86\Debug\Emgu.CV.dll
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\x86\Debug\AForge.Video.FFMPEG.pdb
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\bin\x86\Debug\AForge.Video.FFMPEG.xml
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\obj\x86\Debug\rgbd_copmression.Form1.resources
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\obj\x86\Debug\rgbd_copmression.Properties.Resources.resources
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\obj\x86\Debug\rgbd_copmression.csproj.GenerateResource.Cache
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\obj\x86\Debug\rgbd_copmression.csproj.CoreCompileInputs.cache
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\obj\x86\Debug\rgbd_copmression.exe
+c:\users\welah\source\repos\rgbd_copmression\rgbd_copmression\obj\x86\Debug\rgbd_copmression.pdb
